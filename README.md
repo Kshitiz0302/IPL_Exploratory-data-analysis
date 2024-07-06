@@ -1,4 +1,4 @@
-# Ipl-EDA-Pyspark-
+# Ipl-EDA-Pyspark
 Exploratory data analysis on IPL dataset using Pyspark on Databricks Platform.
 To Run the following Notebook/Kernel :- 
 1. Go to [Databrick Community Edition](https://community.cloud.databricks.com/) and sign up for an account .
@@ -6,7 +6,7 @@ To Run the following Notebook/Kernel :-
 3. Upload the Dataset along with the Notebook and run the Notebook . 
 4. Publically Hosted [here](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4354019879938929/3816681144227439/2770203938443209/latest.html)
 
-Queries made for Data Analysis
+## Queries made for Data Analysis
 
 #### A. Find the top 3 venues which hosted the most number of eliminator matches?
 
